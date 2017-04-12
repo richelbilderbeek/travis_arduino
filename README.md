@@ -24,3 +24,7 @@ For compiling, [ino](https://github.com/amperka/ino.git) is used. It works great
 
 The main function is put in `src/travis_arduino.ino`. It is required by [ino](https://github.com/amperka/ino.git)
 that the sketch is in a `src` folder.
+
+## More complex examples
+
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/ApproxyClock.svg?branch=master)](https://travis-ci.org/richelbilderbeek/ApproxyClock) [ApproxyClock](https://github.com/richelbilderbeek/ApproxyClock)
