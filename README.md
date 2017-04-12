@@ -17,3 +17,10 @@ The goal of this project is to have a clean Travis CI build, with specs:
 
 More complex builds:
  * Use of OCLint: [travis_arduino_oclint](https://www.github.com/richelbilderbeek/travis_arduino_oclint)
+
+## Details
+
+For compiling, [ino](https://github.com/amperka/ino.git) is used. It works great! 
+
+The main function is put in `src/travis_arduino.ino`. It is required by [ino](https://github.com/amperka/ino.git)
+that the sketch is in a `src` folder.
