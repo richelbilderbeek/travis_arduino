@@ -15,3 +15,5 @@ install:
 
 script: 
   - ino build
+  # Check if resulting file exists
+  - if [ -f .build/uno/firmware.hex ]; then return 0; else return 1; fi
