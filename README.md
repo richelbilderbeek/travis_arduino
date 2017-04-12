@@ -28,3 +28,5 @@ that the sketch is in a `src` folder.
 ## More complex examples
 
  * [![Build Status](https://travis-ci.org/richelbilderbeek/ApproxyClock.svg?branch=master)](https://travis-ci.org/richelbilderbeek/ApproxyClock) [ApproxyClock](https://github.com/richelbilderbeek/ApproxyClock)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/IsClock.svg?branch=master)](https://travis-ci.org/richelbilderbeek/IsClock) [IsClock](https://github.com/richelbilderbeek/IsClock)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/PiClock.svg?branch=master)](https://travis-ci.org/richelbilderbeek/PiClock) [PiClock](https://github.com/richelbilderbeek/PiClock)
